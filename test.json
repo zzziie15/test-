@@ -1,0 +1,22 @@
+{
+    "manifest": {
+        "author": "vananamajisa#4946",
+        "version": "1.0",
+        "name": "test",
+        "updater": "https:\/\/raw.githubusercontent.com\/Vendicated\/AliucordPlugins\/main\/Themer\/Firefly.json"
+    },
+    "background": {
+        "url": "https://cdn.discordapp.com/attachments/890379683437375528/891672171301175356/Screenshot_20210926-2147542.jpg",
+        "overlay_alpha": 0,
+        "blur_radius": 0
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 1224736768,
+        "background_secondary": 603979776,
+        "accent": -2058867,
+        "mention_highlight": 669029773
+    },
+    "colors": {},
+    "drawable_tints": {}
+}
